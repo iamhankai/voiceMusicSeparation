@@ -23,14 +23,17 @@ sys.path.append('E:\Python\voiceMusicSeparation')
 # .pth file for my project(这行是注释)
 E:\Python\voiceMusicSeparation
 ```
+
 3. 导入该工程module
 ```
 import voiceMusicSeparation as vms
 ```
+
 4. 把你的wav格式歌曲放到Audio文件夹，注意歌曲名称改成英文。进行歌声和音乐的分离
 ```
 vms.voiceMusicSeparation('Audio/歌曲名称.wav')
 ```
+
 5. 打开工程主目录下生成的歌声'outputE.wav'和音乐'outputA.wav'查看分离效果。也可以在Python中播放：
 ```
 vms.playAudio('outputE.wav')
