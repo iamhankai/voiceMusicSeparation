@@ -4,7 +4,7 @@ Voice Music Separation
 该工程用于参加第六届浙大华为杯题目：
 [流行歌曲歌声提取](http://paas-developer.huawei.com/competition#!/competition/subjects/551234f01bd7a2a52753d995)
 
-主要功能为歌声音乐分离`voiceMusicSeparation()`以及播放音乐`playAudio()`，还有内部函数矩阵恢复的IALM算法等。
+主要功能为歌声音乐分离`fuck()`以及播放音乐`playAudio()`，还有内部函数矩阵恢复（RPCA）的IALM算法等。
 
 --------
 
