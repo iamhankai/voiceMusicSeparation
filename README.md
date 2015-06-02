@@ -33,7 +33,7 @@ import voiceMusicSeparation as vms
 
 - 把你的`wav`格式歌曲放到`Audio`文件夹，注意歌曲名称改成英文。进行歌声和音乐的分离
 ```
-vms.voiceMusicSeparation('Audio/歌曲名称.wav')
+vms.fuck('Audio/歌曲名称.wav')
 ```
 
 - 打开工程主目录下生成的歌声`outputE.wav`和音乐`outputA.wav`查看分离效果。也可以在Python中播放：
